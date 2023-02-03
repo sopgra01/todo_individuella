@@ -100,4 +100,3 @@ form.addEventListener('submit', (e) => {
     toDoInput.value = '';
   }
 });
-
